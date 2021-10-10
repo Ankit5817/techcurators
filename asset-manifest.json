@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/techcurators/static/css/main.bd59cb2f.chunk.css",
+    "main.js": "/techcurators/static/js/main.6e313041.chunk.js",
+    "main.js.map": "/techcurators/static/js/main.6e313041.chunk.js.map",
+    "runtime-main.js": "/techcurators/static/js/runtime-main.6c613de9.js",
+    "runtime-main.js.map": "/techcurators/static/js/runtime-main.6c613de9.js.map",
+    "static/js/2.8811860c.chunk.js": "/techcurators/static/js/2.8811860c.chunk.js",
+    "static/js/2.8811860c.chunk.js.map": "/techcurators/static/js/2.8811860c.chunk.js.map",
+    "static/js/3.d5818d17.chunk.js": "/techcurators/static/js/3.d5818d17.chunk.js",
+    "static/js/3.d5818d17.chunk.js.map": "/techcurators/static/js/3.d5818d17.chunk.js.map",
+    "index.html": "/techcurators/index.html",
+    "static/css/main.bd59cb2f.chunk.css.map": "/techcurators/static/css/main.bd59cb2f.chunk.css.map",
+    "static/js/2.8811860c.chunk.js.LICENSE.txt": "/techcurators/static/js/2.8811860c.chunk.js.LICENSE.txt",
+    "static/media/blank-profile-picture-973460_960_720.40273514.png": "/techcurators/static/media/blank-profile-picture-973460_960_720.40273514.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c613de9.js",
+    "static/js/2.8811860c.chunk.js",
+    "static/css/main.bd59cb2f.chunk.css",
+    "static/js/main.6e313041.chunk.js"
+  ]
+}
